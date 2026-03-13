@@ -1,0 +1,11 @@
+# Core training stack
+torch>=2.2
+torchvision>=0.17
+numpy<2
+
+# Data loading / image handling
+Pillow
+opencv-python
+
+# Quality-of-life for CLI training loops
+tqdm
