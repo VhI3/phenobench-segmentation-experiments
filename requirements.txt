@@ -9,3 +9,6 @@ opencv-python
 
 # Quality-of-life for CLI training loops
 tqdm
+
+# Model export
+onnx
